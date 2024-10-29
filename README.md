@@ -1,4 +1,6 @@
-## Hi there 👋
+## I like it when it's perfect 🤖
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a7/Matissedance.jpg" alt="matisse" width="500"/>
+
 
 <!--
 **starobot/starobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
